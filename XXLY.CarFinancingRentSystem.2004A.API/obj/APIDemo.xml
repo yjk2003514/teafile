@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XXLY.CarFinancingRentSystem.2004A.API</name>
+    </assembly>
+    <members>
+        <member name="M:XXLY.CarFinancingRentSystem._2004A.API.JWTService.GetNewJWT">
+            <summary>
+            生成Token
+            </summary>
+            <param name="user"></param>
+            <param name="Type"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

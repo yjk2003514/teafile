@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.API", "XXLY.CarFinancingRentSystem.2004A.API\XXLY.CarFinancingRentSystem.2004A.API.csproj", "{73384FD4-E805-4759-99A2-C6E1B6F05B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.Services", "XXLY.CarFinancingRentSystem.2004A.Services\XXLY.CarFinancingRentSystem.2004A.Services.csproj", "{930904C5-FD75-4BE0-A316-D98952A99C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.Repository", "XXLY.CarFinancingRentSystem.2004A.Repository\XXLY.CarFinancingRentSystem.2004A.Repository.csproj", "{314545A1-D239-4DED-A17C-FBC45217020B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.Dapper", "XXLY.CarFinancingRentSystem.2004A.Dapper\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj", "{A8740CC0-6EED-468B-835D-1703544255FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.Domain", "XXLY.CarFinancingRentSystem.2004A.Domain\XXLY.CarFinancingRentSystem.2004A.Domain.csproj", "{F15DE704-73C6-4B14-9E4D-BDFF8910BE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.DTO", "XXLY.CarFinancingRentSystem.2004A.DTO\XXLY.CarFinancingRentSystem.2004A.DTO.csproj", "{92E7285B-0CC2-4E17-848A-DE54FFD52113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.IRepository", "XXLY.CarFinancingRentSystem.2004A.IRepository\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj", "{1CF16451-4FFF-479D-B56B-E2A1DC73FB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXLY.CarFinancingRentSystem.2004A.IServices", "XXLY.CarFinancingRentSystem.2004A.IServices\XXLY.CarFinancingRentSystem.2004A.IServices.csproj", "{89D51850-DB7D-4BFC-8BCB-6B160FC14DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73384FD4-E805-4759-99A2-C6E1B6F05B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73384FD4-E805-4759-99A2-C6E1B6F05B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73384FD4-E805-4759-99A2-C6E1B6F05B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73384FD4-E805-4759-99A2-C6E1B6F05B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930904C5-FD75-4BE0-A316-D98952A99C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930904C5-FD75-4BE0-A316-D98952A99C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930904C5-FD75-4BE0-A316-D98952A99C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930904C5-FD75-4BE0-A316-D98952A99C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314545A1-D239-4DED-A17C-FBC45217020B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314545A1-D239-4DED-A17C-FBC45217020B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314545A1-D239-4DED-A17C-FBC45217020B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314545A1-D239-4DED-A17C-FBC45217020B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8740CC0-6EED-468B-835D-1703544255FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8740CC0-6EED-468B-835D-1703544255FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8740CC0-6EED-468B-835D-1703544255FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8740CC0-6EED-468B-835D-1703544255FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15DE704-73C6-4B14-9E4D-BDFF8910BE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15DE704-73C6-4B14-9E4D-BDFF8910BE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15DE704-73C6-4B14-9E4D-BDFF8910BE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15DE704-73C6-4B14-9E4D-BDFF8910BE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E7285B-0CC2-4E17-848A-DE54FFD52113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E7285B-0CC2-4E17-848A-DE54FFD52113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E7285B-0CC2-4E17-848A-DE54FFD52113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E7285B-0CC2-4E17-848A-DE54FFD52113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF16451-4FFF-479D-B56B-E2A1DC73FB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF16451-4FFF-479D-B56B-E2A1DC73FB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF16451-4FFF-479D-B56B-E2A1DC73FB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF16451-4FFF-479D-B56B-E2A1DC73FB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D51850-DB7D-4BFC-8BCB-6B160FC14DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D51850-DB7D-4BFC-8BCB-6B160FC14DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D51850-DB7D-4BFC-8BCB-6B160FC14DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D51850-DB7D-4BFC-8BCB-6B160FC14DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EF1808-9A6C-4262-BDC3-6A3C53525DA4}
+	EndGlobalSection
+EndGlobal
