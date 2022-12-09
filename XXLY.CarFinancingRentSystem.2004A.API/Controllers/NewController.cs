@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 namespace XXLY.CarFinancingRentSystem._2004A.API.Controllers
 {
     [Route("api/[controller]/[action]")]
@@ -14,6 +15,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult aaa(int a = 1, int b = 1)
         {
             var c = a + b;

@@ -80,6 +80,10 @@
               "target": "Package",
               "version": "[9.0.3, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
             "NLog.Config": {
               "target": "Package",
               "version": "[4.7.15, )"

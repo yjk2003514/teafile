@@ -137,7 +137,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
         /// <returns></returns>
         public int Del(int id)
         {
-            var a = _DapperDbContext._IContext//连接上下文
+            var a = _DapperDbContext._IContext();//连接上下文
             var ty = typeof(T);
             var hqtx = ty.GetCustomAttributes(typeof(TableAttribute), true);//获取特性
             string CFTable = ((TableAttribute)hqtx[0]).Name;//获取表名

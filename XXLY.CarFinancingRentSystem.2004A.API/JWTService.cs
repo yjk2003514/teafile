@@ -44,9 +44,9 @@ namespace XXLY.CarFinancingRentSystem._2004A.API
                 //解释Expires 这个属性是用来设置Token的过期时间的
                 Expires = DateTime.Now.AddDays(1),
                 //解释Issuer 这个属性是用来设置Token的颁发者的
-                Issuer = "http://localhost:5041",
+                Issuer = "http://localhost:5238",
                 //解释Audience 这个属性是用来设置Token的接收者的
-                Audience = "http://localhost:5041",
+                Audience = "http://localhost:5238",
                 //解释SigningCredentials 这个属性是用来设置Token的加密方式的
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };

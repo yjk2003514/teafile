@@ -23,6 +23,19 @@ builder.Services.AddSwaggerGen(c =>
     var xmlPath = Path.Combine(basePath, "APIDemo.xml");
     c.IncludeXmlComments(xmlPath, true);//true:显示控制器注释
     c.OrderActionsBy(o => o.RelativePath);
+
+    //jwt
+    c.OperationFilter<Swashbuckle.AspNetCore.Filters.AddResponseHeadersFilter>();
+    c.OperationFilter<Swashbuckle.AspNetCore.Filters.AppendAuthorizeToSummaryOperationFilter>();
+    c.OperationFilter<Swashbuckle.AspNetCore.Filters.SecurityRequirementsOperationFilter>();
+    //在header中添加Token，传递到后台
+    c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
+    {
+        Description = "Standard Authorization header using the Bearer scheme. Example: \"bearer {token}\"",
+        Name = "Authorization",
+        In = ParameterLocation.Header,
+        Type = SecuritySchemeType.ApiKey
+    });
 });
 //大小写
 builder.Services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.PropertyNamingPolicy = null);
@@ -42,6 +55,21 @@ builder.Services.AddCors((x) =>
 builder.Services.AddMvc(x =>
 {
     x.Filters.Add(typeof(ExceptionHandling));
+});
+//验证Token
+builder.Services.AddAuthentication(Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(x => {
+    x.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+    {
+        ValidateAudience = true,
+        ValidateIssuer = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidAudience = "http://localhost:5238",
+        ValidIssuer = "http://localhost:5238",
+        IssuerSigningKey = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(
+                System.Text.Encoding.UTF8.GetBytes("1111111111111111")
+            )
+    };
 });
 
 //注册autofac module
