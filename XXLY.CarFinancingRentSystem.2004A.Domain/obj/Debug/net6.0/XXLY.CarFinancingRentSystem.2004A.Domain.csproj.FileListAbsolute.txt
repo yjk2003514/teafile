@@ -34,3 +34,17 @@ C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\refint\XXLY.CarFinancingRentSystem.2004A.Domain.dll
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.pdb
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.Domain.dll
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.deps.json
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.dll
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.pdb
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.csproj.AssemblyReference.cache
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.AssemblyInfoInputs.cache
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.AssemblyInfo.cs
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.csproj.CoreCompileInputs.cache
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.dll
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\refint\XXLY.CarFinancingRentSystem.2004A.Domain.dll
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.pdb
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.Domain.dll
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.runtimeconfig.json
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Domain\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.genruntimeconfig.cache

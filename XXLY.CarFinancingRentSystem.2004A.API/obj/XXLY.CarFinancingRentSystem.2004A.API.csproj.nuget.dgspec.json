@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj": {}
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.API",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.API\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.API\\XXLY.CarFinancingRentSystem.2004A.API.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,23 +32,23 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj"
               }
             }
           }
@@ -81,6 +80,20 @@
               "version": "[9.0.3, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
             },
@@ -131,25 +144,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.Dapper",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -164,8 +176,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj"
               }
             }
           }
@@ -183,6 +195,20 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -208,25 +234,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.Domain",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Domain\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\XXLY.CarFinancingRentSystem.2004A.Domain.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,6 +277,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -267,25 +308,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.DTO",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.DTO\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\XXLY.CarFinancingRentSystem.2004A.DTO.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -311,6 +351,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -326,25 +382,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.IRepository",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IRepository\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -370,6 +425,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -385,25 +456,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.IServices",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.IServices\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\XXLY.CarFinancingRentSystem.2004A.IServices.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -429,6 +499,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -444,25 +530,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.Repository",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -477,8 +562,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj"
               }
             }
           }
@@ -492,6 +577,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -507,25 +608,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj": {
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj",
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj",
         "projectName": "XXLY.CarFinancingRentSystem.2004A.Services",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Services\\obj\\",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\XXLY.CarFinancingRentSystem.2004A.Services.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -540,8 +640,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj"
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj"
+              },
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Repository\\XXLY.CarFinancingRentSystem.2004A.Repository.csproj"
               }
             }
           }
@@ -555,6 +658,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -570,7 +689,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
