@@ -6,10 +6,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using XXLY.CarFinancingRentSystem._2004A.Dapper;
+using XXLY.CarFinancingRentSystem._2004A.IRepository;
 
 namespace XXLY.CarFinancingRentSystem._2004A.Repository
 {
-    public class Respository<T> where T:class,new()
+    public class Respository<T>: IRespository<T> where T:class,new()
     {
         DapperDbContext _DapperDbContext;
 
@@ -33,13 +34,12 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
             var list = i.Query<T>(sql);
             return list;
         }
-
         /// <summary>
         /// 根据Id查询
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
-        public IEnumerable<T> Find(int Id)
+        public IEnumerable<T> Find(Guid Id)
         {
             var i = _DapperDbContext._IContext();
             var ty = typeof(T);
@@ -50,7 +50,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
             var list = i.Query<T>($"select * from {MySqlName} where Id=@Id", new {Id=Id});
             return list;
         }
-         /// <summary>
+        /// <summary>
          /// 添加的仓储
          /// </summary>
          /// <param name="Model"></param>
@@ -80,7 +80,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
                             setTable += $"@{d.Name},";
                         }
                     }
-                    else if (!d.Name.ToLower().Equals("id"))
+                    else if (!d.Name.ToLower().Equals("Id"))
                     {
                         setproperty += $"{d.Name},";
                         setTable += $"@{d.Name},";
@@ -89,10 +89,9 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
             });
 
             var sql = $"insert into {characterName} ({setproperty.TrimEnd(',')}) values({setTable.TrimEnd(',')})";
-            i.Execute(sql, Model);
-            return 200;
+            var a =i.Execute(sql, Model);
+            return a;
         }
-
         /// <summary>
         /// 修改的存储过程
         /// </summary>
@@ -135,7 +134,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.Repository
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        public int Del(int id)
+        public object Del(T id)
         {
             var a = _DapperDbContext._IContext();//连接上下文
             var ty = typeof(T);

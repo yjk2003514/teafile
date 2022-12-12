@@ -35,6 +35,7 @@ C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.pdb
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.IRepository.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.deps.json
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.runtimeconfig.json
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.pdb
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj.AssemblyReference.cache
@@ -45,6 +46,5 @@ C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancing
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\refint\XXLY.CarFinancingRentSystem.2004A.IRepository.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.pdb
-C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.IRepository.dll
-C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.runtimeconfig.json
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.IRepository.genruntimeconfig.cache
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.IRepository\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.IRepository.dll

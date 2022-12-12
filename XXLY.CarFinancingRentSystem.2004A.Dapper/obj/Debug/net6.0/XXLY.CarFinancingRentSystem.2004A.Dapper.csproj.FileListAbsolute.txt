@@ -44,6 +44,7 @@ C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.pdb
 C:\Users\Administrator\Desktop\新建文件夹\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.Dapper.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.deps.json
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.runtimeconfig.json
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.pdb
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Domain.dll
@@ -57,6 +58,5 @@ C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancing
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\refint\XXLY.CarFinancingRentSystem.2004A.Dapper.dll
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.pdb
-C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.Dapper.dll
-C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\bin\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.runtimeconfig.json
 C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\XXLY.CarFinancingRentSystem.2004A.Dapper.genruntimeconfig.cache
+C:\Users\闫健康\Desktop\Training\practical-training-project\XXLY.CarFinancingRentSystem.2004A.Dapper\obj\Debug\net6.0\ref\XXLY.CarFinancingRentSystem.2004A.Dapper.dll

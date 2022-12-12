@@ -56,10 +56,6 @@
               "target": "Package",
               "version": "[6.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -69,6 +65,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.31, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -138,7 +138,77 @@
               "target": "Package",
               "version": "[6.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
+        "projectName": "XXLY.CarFinancingRentSystem.2004A.IRepository",
+        "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj",
+        "packagesPath": "C:\\Users\\闫健康\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\闫健康\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.11, )"
             },
@@ -147,6 +217,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -198,6 +272,9 @@
             "projectReferences": {
               "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj": {
                 "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.Dapper\\XXLY.CarFinancingRentSystem.2004A.Dapper.csproj"
+              },
+              "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj": {
+                "projectPath": "C:\\Users\\闫健康\\Desktop\\Training\\practical-training-project\\XXLY.CarFinancingRentSystem.2004A.IRepository\\XXLY.CarFinancingRentSystem.2004A.IRepository.csproj"
               }
             }
           }
@@ -216,15 +293,15 @@
               "target": "Package",
               "version": "[6.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             }
           },
           "imports": [

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XXLY.CarFinancingRentSystem._2004A.Domain.Table
+namespace XXLY.CarFinancingRentSystem._2004A.Domain.Table 
 {   /// <summary>
     /// 车商表
     /// </summary>

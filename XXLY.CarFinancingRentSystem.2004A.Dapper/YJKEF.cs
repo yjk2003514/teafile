@@ -15,10 +15,7 @@ namespace XXLY.CarFinancingRentSystem._2004A.Dapper
 
         }
 
-        public DbSet<CarDealer>? CarDealer { get; set; }
-        public DbSet<CarDealerRelationUploadLnfo>? CarDealerRelationUploadLnfo { get; set; }
-        public DbSet<Relation>? Relation { get; set; }
-        public DbSet<UploadLnfo>? UploadLnfo { get; set; }
-
+        
+        public DbSet<VehicleBrand>? VehicleBrand { get; set; }
     }
 }

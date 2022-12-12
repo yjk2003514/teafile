@@ -1,10 +1,19 @@
 using Autofac;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using NPOI.SS.Formula.Functions;
 using System.Configuration;
 using System.Reflection;
 using XXLY.CarFinancingRentSystem._2004A.API;
+using XXLY.CarFinancingRentSystem._2004A.API.Auto;
 using XXLY.CarFinancingRentSystem._2004A.Dapper;
+using XXLY.CarFinancingRentSystem._2004A.Domain.Table;
+using XXLY.CarFinancingRentSystem._2004A.Repository;
+using XXLY.CarFinancingRentSystem._2004A.Services;
+using XXLY.CarFinancingRentSystem._2004A.IRepository;
+using Autofac.Extensions.DependencyInjection;
+using XXLY.CarFinancingRentSystem._2004A.API.Auto;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +21,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-
+//builder.Services.AddScoped<IRespository<>, Respository<>>();
+builder.Services.AddDbContext<YJKEF>(d => d.UseMySql(builder.Configuration.GetConnectionString("Servers"),new MySqlServerVersion(new Version(8,0,22))));
 //API注释
 builder.Services.AddSwaggerGen(c =>
 {
@@ -51,6 +61,9 @@ builder.Services.AddCors((x) =>
 {
     x.AddPolicy("k", p => p.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 });
+
+
+
 //异常处理
 builder.Services.AddMvc(x =>
 {
@@ -72,12 +85,10 @@ builder.Services.AddAuthentication(Microsoft.AspNetCore.Authentication.JwtBearer
     };
 });
 
-//注册autofac module
-builder.Host.UseServiceProviderFactory(new Autofac.Extensions.DependencyInjection.AutofacServiceProviderFactory());
-builder.Host.ConfigureContainer<Autofac.ContainerBuilder>(builder =>
+//AutoFac自动注册
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory()).ConfigureContainer<ContainerBuilder>(builder =>
 {
-    //需要引入Autofac命令空间 
-    builder.RegisterModule<XXLY.CarFinancingRentSystem._2004A.API.AutofacDependencyInjection>();
+    builder.RegisterModule(new AutofacModuleRegister());
 });
 
 var app = builder.Build();

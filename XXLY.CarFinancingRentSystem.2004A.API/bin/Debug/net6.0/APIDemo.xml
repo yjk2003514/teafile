@@ -4,6 +4,21 @@
         <name>XXLY.CarFinancingRentSystem.2004A.API</name>
     </assembly>
     <members>
+        <!-- Badly formed XML comment ignored for member "M:XXLY.CarFinancingRentSystem._2004A.API.Controllers.CarDealerController.CarDealerAdd(XXLY.CarFinancingRentSystem._2004A.Domain.Table.CarDealer)" -->
+        <!-- Badly formed XML comment ignored for member "M:XXLY.CarFinancingRentSystem._2004A.API.Controllers.CarDealerController.CarDealerUpt(XXLY.CarFinancingRentSystem._2004A.Domain.Table.CarDealer)" -->
+        <member name="M:XXLY.CarFinancingRentSystem._2004A.API.Controllers.CarDealerController.CarDealerFind(System.Guid,System.String)">
+            <summary>
+            车商表查询
+            </summary>
+            <param name = "Id" ></param >
+            <returns ></returns >
+        </member>
+        <member name="M:XXLY.CarFinancingRentSystem._2004A.API.Controllers.CarDealerController.CarDealerShow">
+            <summary>
+            车商表显示
+            </summary>
+            <returns></returns>
+        </member>
         <member name="M:XXLY.CarFinancingRentSystem._2004A.API.JWTService.GetNewJWT">
             <summary>
             生成Token
